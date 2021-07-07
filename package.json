@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "generates token for videocall",
   "main": "index.js",
+  "entry point": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +12,14 @@
   "dependencies": {
     "agora-access-token": "^2.0.4",
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeewangini/getTokenFromAgora.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeewangini/getTokenFromAgora/issues"
+  },
+  "homepage": "https://github.com/jeewangini/getTokenFromAgora#readme"
 }
