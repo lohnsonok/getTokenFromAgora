@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "generates token for videocall",
   "main": "index.js",
-  "entry point": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "index.js"
+    "start": "../AgoraTokenGenerator/index.js"
   },
   "author": "jeewangini",
   "license": "ISC",
