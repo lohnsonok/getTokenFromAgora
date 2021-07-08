@@ -104,6 +104,6 @@ const generateAccessToken =(req, res) => {
 app.get('/access_token', nocache, generateAccessToken);
 
 
-app.listen(PORT, () => {
+app.listen(process.env.PORT || 3000, () => {
     console.log(`listening on port: ${PORT}`);
 });
