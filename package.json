@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/jeewangini/getTokenFromAgora/issues"
   },
-  "engines": {
-    "node:"
-  },
   "homepage": "https://github.com/jeewangini/getTokenFromAgora#readme"
 }
